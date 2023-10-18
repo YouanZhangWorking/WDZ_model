@@ -1,0 +1,1 @@
+python export.py --weights yolov5n.pt --img 640 --batch 1
